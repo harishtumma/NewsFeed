@@ -37,8 +37,8 @@ Hilt
 Glide for image loading
 
 📸 Screenshots
-<img src="drawable/screenshot_home.png" width="300" />
+<img src="screenshots/screenshot_home.png" width="300" />
 
-<img src="drawable/screenshot_detail.png" width="300" />
+<img src="screenshots/screenshot_detail.png" width="300" />
 
 
